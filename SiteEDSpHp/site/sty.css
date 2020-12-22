@@ -1,0 +1,100 @@
+body {
+  background:rgb(81%,79%,83%); 
+}
+
+#entete {
+  min-width: 100;
+  width:90%;
+  
+  height: 75px;;
+  position: relative;
+}
+
+#entete h1{
+    TE 
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+#lecon {
+  background-color: rgb(54%,104%,122%);
+}
+
+#samedi {
+  text-align: center;
+  background-color: red;
+  border-color: black;
+}
+
+#dimanche {
+  text-align: center;
+  background-color: green;
+  border-color: black;
+}
+
+#lundi {
+  text-align: center;
+  background-color: yellow;
+  border-color: black;
+}
+
+#mardi {
+  text-align: center;
+  background-color: white;
+  border-color: black;
+}
+
+#mercredi {
+  text-align: center;
+  background-color: white;
+  border-color: black;
+}
+
+#jeudi {
+  text-align: center;
+  background-color: white;
+  border-color: black;
+}
+
+#vendredi {
+  text-align: center;
+  background-color: white;
+  border-color: black;
+}
+
+#back a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  background-color: #4CAF50;
+}
+

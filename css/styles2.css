@@ -1,0 +1,38 @@
+///////////////////INSCRIPTION/////////////////////
+
+.bg-imgg {
+  float: right;
+  width: 100px;
+  padding: 100px;
+}
+
+
+
+/* Add styles to the form container */
+.containerr {
+  position: absolute;
+  right: 0;
+  margin: 20px;
+  max-width: 500px;
+  padding: 45px;
+  background-color: orange;
+
+}
+
+/* Full-width input fields */
+
+/* Set a style for the submit button */
+.btnn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  opacity: 0.9;
+}
+
+.btnn:hover {
+  opacity: 1;
+}
+///////////////////////////////////////////////////

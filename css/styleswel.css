@@ -1,0 +1,35 @@
+//////////welcom///////////
+
+body {
+  background-color: #CCCCFF;
+}
+
+.navbare {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+.navbare a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbare a:hover {
+  background-color: #000;
+}
+
+.activee {
+  background-color: #4CAF50;
+}
+
+@media screen and (max-width: 500px) {
+  .navbare a {
+    float: none;
+    display: block;
+  }
+}
+
